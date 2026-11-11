@@ -1,0 +1,6 @@
+id,customer,item,quantity,unit_price,status,date,note
+1001,Mia Chen,Silk Hair Bow,2,18.50,Delivered,2026-11-02,"Gift wrap, please"
+1002,Hana Kim,Pearl Claw Clip,3,12.00,Shipped,2026-11-05,Handle with care
+1003,Sofia Reyes,Lace Ribbon Set,1,24.75,Processing,2026-11-07,
+1004,Yuna Park,Cream Tote Bag,1,42.00,Pending,2026-11-09,Customer asked for express
+1005,Lila Moreau,Velvet Scrunchie,4,9.25,Cancelled,2026-11-01,Out of stock
